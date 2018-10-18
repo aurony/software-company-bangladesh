@@ -2,7 +2,7 @@
 EXTREME SOLUTIONS is a specialized web-application and desktop software development company in Bangladesh.
 
 # ERP SOFTWARE IN BANGLADESH
-ERP stands for Enterprise Resource Planning is a Software that acts as the encyclopedia of business activities. There are many companies providing <a href='https://extreme.com.bd/category/erp-software-bangladesh'>ERP software in Bangladesh</a> but most of the ERP software was not developed keeping core ERP functionalities in Mind. XERP is an ERP software in Bangladesh for Garments/ Textiles Industries, Flour Mills & Plastic container manufacturing companies. Cloud-based ERP Software for factory production-oriented business in Bangladesh.
+ERP Software is meant to handle all kinds of transactions in a company. Identify whats are the profit & loss factors, can monitor them in real time. There are many companies providing <a href='https://extreme.com.bd/category/erp-software-bangladesh'>ERP software in Bangladesh</a> but most of the ERP software was not developed keeping core ERP functionalities in Mind. XERP is an ERP software in Bangladesh for Garments/ Textiles Industries, Flour Mills & Plastic container manufacturing companies.
 
 # SALES & INVENTORY MANAGEMENT SOFTWARE IN BANGLADESH
 Extreme POS is a Point of Sales software with sales-purchase, store-inventory & core accounting system. Its one of the best shop management system- <a href='https://xtremebd.com/category/shop-accounting-sales-inventory-pos-software-chittagong'>POS software in Chittagong</a>. Install a free trial version of the windows based POS software to check the benefits & features of the POS software.
@@ -16,7 +16,7 @@ Best <a href='https://extreme.com.bd/category/accounting-software-company-bangla
   <li><b>XERP G Series</b>: <a href='https://extreme.com.bd/Software/garments-management-mrp'>MRP Software for Garments & Textiles Industries</a> in bangladesh</li>
   <li><b>XERP P Series</b>: Industrial <a href='https://extreme.com.bd/Software/plastic-industry-erp-software'>ERP Software for plastic manufacturing Companies</a></li>  
   <li><b>XERP F Series</b>: <a href='https://extreme.com.bd/Software/flour-industry-erp-software'>ERP Software for Flour Mills</a></li>
-  <li><b>XERP M Series</b>: Best <a href='http://xerpsoftware.com>ERP software in Bangladesh</a> for any production orients companies having Inventory & Accounting system.</li>  
+  <li><b>XERP M Series</b>: Best <a href='http://xerpsoftware.com'>ERP software in Bangladesh</a> for any production orients companies having Inventory & Accounting system.</li>  
 </ul>
 
-Accounting Software delineates a kind of use Software that records and systems Accounting trades inside helpful modules, for instance, loan boss liabilities, cash due, back, and trial conform. It functions as an Accounting information System. Accounting Software is a kind of PC Software utilized by Accounting experts to oversee accounts and perform Accounting operations. 
+To submit an enquiry abour your requirements on ERP Software or checking demo of our ERP software, you can send us an email at: xservice.team@gmail.com
