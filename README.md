@@ -19,4 +19,4 @@ Best <a href='https://extreme.com.bd/category/accounting-software-company-bangla
   <li><b>XERP M Series</b>: Best <a href='http://xerpsoftware.com'>ERP software in Bangladesh</a> for any production orients companies having Inventory & Accounting system.</li>  
 </ul>
 
-To submit an enquiry abour your requirements on ERP Software or checking demo of our ERP software, you can send us an email at: xservice.team@gmail.com
+To submit an inquiry about your requirements on ERP Software or checking demo of our ERP software, you can send us an email at: xservice.team@gmail.com
